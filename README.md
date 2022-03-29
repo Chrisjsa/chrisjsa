@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RSE INC.**
 - 🌱 I’m currently learning **NodeJS**
-- 📫 How to reach me **chris.jsa01@gmail.com**
+- 📫 How to reach me **+584122019072**
 
 <h4 align="left">Programming Languages</h4>
 <p align="left">
